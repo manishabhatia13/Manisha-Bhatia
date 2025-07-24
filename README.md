@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi there, I'm Manisha Bhatia!
 
-<!--
-**manishabhatia13/manishabhatia13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a B.Com student passionate about **Data Science**  and building real-world projects using **Python, SQL, Power BI, Tableau**, and **Machine Learning**.
 
-Here are some ideas to get you started:
+💡 Projects:
+- 🧠 [Insurance Customer Response Prediction](https://github.com/manishabhatia13/Insurance-Customer-Response-Prediction)
+- 📉 [Telecom Customer Churn Prediction](https://github.com/manishabhatia13/Telecom-Customer-Churn-Prediction)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach Me:
+- Email: (manisha.bhatia943@gmail.com)
+- LinkedIn:(https://www.linkedin.com/in/manisha-bhatia13/)
+
+---
